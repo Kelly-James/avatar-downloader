@@ -1,0 +1,16 @@
+{
+  "name": "github-avatar-downloader",
+  "version": "1.0.0",
+  "description": "avatarDownloader",
+  "main": "avatarDl.js",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
